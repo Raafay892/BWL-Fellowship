@@ -120,6 +120,6 @@ if __name__ == "__main__":
 ##Port scanner in python 
 ### taken help from google as well
 
-![Screenshot](screenshot.png)
+![Screenshot](ss.png)
 
 
